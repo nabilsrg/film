@@ -1,0 +1,50 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description
+	rdf:about ="https://en.wikipedia.org/wiki/Furious_7">
+	<dc:href>furious7.php</dc:href>
+	<dc:title>Furious 7</dc:title>
+	<dc:img>https://m.media-amazon.com/images/M/MV5BMTBmNWQ0Y2UtOTQ3Yy00OTZjLWE0MWYtOTk1YWRiNTFlN2EzXkEyXkFqcGdeQXVyMTE5NzI0NDM@._V1_.jpg</dc:img>
+	<dc:abstract>Dominic Toretto (Vin Diesel) dan kawan-kawan dihantui oleh kasus lama yang berkaitan dengan Owen Shaw (Luke Evans), musuh mereka. Sang kakak, Deckard Shaw (Jason Statham), menutut balas atas perlakuan mereka terhadap sang adik. Deckard Shaw mencari seluruh kru Dominic dan berniat membunuh semuanya.
+	 Mengetahui hal tersebut, Dominic dan kawan-kawan berniat memburu balik Deckard sebelum mereka dihabisi satu persatu. Namun, cukup sulit mencari Deckard, mereka harus bekerja sama dengan pihak lain yang sama-sama ingin memburu Deckard Shaw.</dc:abstract>
+	<dc:director>James Wan</dc:director>
+	<dc:writer>Crish Morgan, Gary Scott Thompson</dc:writer>
+	<dc:starring>Vin Diesel, Paul Walker, Dwayne Johnson, Jason Statham, Chris "Ludacris Bridges, Tyrese Gibson"</dc:starring>
+	<dc:genre>Action, Adventure, Thriller</dc:genre>
+	<dc:release_date>April 1, 2015</dc:release_date>
+	<dc:trailer>https://www.youtube.com/embed/Skpu5HaVkOc</dc:trailer>
+</rdf:Description>
+
+<rdf:Description
+	rdf:about ="https://en.wikipedia.org/wiki/Thor_(film)">
+	<dc:href>thor.php</dc:href>
+	<dc:title>Thor</dc:title>
+	<dc:img>https://upload.wikimedia.org/wikipedia/id/f/fc/Thor_poster.jpg</dc:img>
+	<dc:abstract>Petualangan epik THOR mencakup alam semesta Marvel dari Bumi masa kini hingga alam kosmik Asgard. Cerita berpusat kepada The Mighty Thor, seorang pejuang yang kuat namun arogan yang tindakan sembrononya menyalakan kembali perang kuno. Akibatnya, Thor dibuang ke Bumi di mana ia dipaksa untuk hidup di antara manusia. Ketika penjahat paling berbahaya di dunianya mengirimkan kekuatan tergelapnya untuk menyerang Bumi, Thor belajar apa yang diperlukan untuk menjadi pahlawan sejati.</dc:abstract>
+	<dc:director>Kenneth Branagh</dc:director>
+	<dc:writer>Ashley Edward Miller, Zack Stentz, Don Payne, J. Michael Straczynski, Mark Protosevich</dc:writer>
+	<dc:starring>Chris Hemsworth, Anthony Hopkins, Natalie Portman, Tom Hiddleston, Idris Elba, Stellan Skarsgård, Colm Feore</dc:starring>
+	<dc:genre>Action, Adventure, Fantasy</dc:genre>
+	<dc:release_date>April 17, 2011</dc:release_date>
+	<dc:trailer>https://www.youtube.com/embed/vJUDu40Z_RY</dc:trailer>
+</rdf:Description>
+
+<rdf:Description
+	rdf:about ="https://en.wikipedia.org/wiki/Thor:_The_Dark_World">
+	<dc:href>thor2.php</dc:href>
+	<dc:title>Thor : The Dark World</dc:title>
+	<dc:img>https://upload.wikimedia.org/wikipedia/id/7/7e/Thor_-_The_Dark_World_poster.jpg</dc:img>
+	<dc:abstract>
+		Beberapa tahun sebelum 'Thor: The Dark World', ayah dari Odin, Bor, berperang melawan Dark Elf Malekith yang berencana menggunakan Aether untuk menghancurkan alam semesta. Bor berhasil mengalahkan Malekith dan mengirim Malekith ke penjara. Kemudian Aether disembunyikan dan dilindungi oleh Bor. Namun Malekith berhasil kabur dari penjara. Beberapa tahun setelah kejadian tersebut, Thor ditugaskan untuk menjaga perdamaian. Di waktu yang sama, di Bumi, seorang ahli fisika Jane Foster menemukan sebuah tempat yang dapat melawan hukum fisika pada umumnya. Saat Jane Foster berniat untuk meneliti tempat tersebut dengan peralatan fisikanya, Jane Foster tersedot dalam pusaran Aether. Aether berhasil terserap dalam tubuh Jane Foster. Thor yang mengetahui hal tersebut membawa Jane Foster ke Asgard dan berusaha mengeluarkan Aether dari tubuh Jane. Odin mengatakan bahwa Aether yang terserap dalam tubuh Jane bisa menghancurkan Jane kapan saja. Lebih parahnya, kekuatan Aether tersebut dapat menghancurkan semesta. Malekith kemudian mengumpulkan pasukannya untuk menyerang Asgard dan merebut Aether kembali. Thor meminta bantuan adiknya, Loki yang sedang dipenjara atas perbuatan jahatnya.
+	</dc:abstract>
+	<dc:director>Alan Taylor</dc:director>
+	<dc:writer>Christopher Yost, Christopher Markus, Stephen McFeely, Don Payne, Robert Rodat</dc:writer>
+	<dc:starring>Chris Hemsworth, Anthony Hopkins, Natalie Portman, Tom Hiddleston, Idris Elba, Christopher Eccleston, Jaimie Alexander</dc:starring>
+	<dc:genre>Action, Adventure, Fantasy</dc:genre>
+	<dc:release_date>October 22, 2013</dc:release_date>
+	<dc:trailer>https://www.youtube.com/embed/npvJ9FTgZbM</dc:trailer>
+</rdf:Description>
+</rdf:RDF>	
